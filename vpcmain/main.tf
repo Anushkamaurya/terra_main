@@ -40,3 +40,4 @@ resource "google_compute_firewall" "t_firewall" {
     ports    = ["22"]
   }
 
+}
